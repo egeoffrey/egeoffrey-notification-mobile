@@ -24,7 +24,7 @@ class Mobile(Notification):
     # What to do when initializing
     def on_init(self):
         # constants
-        self.api_server = "http://localhost:5000/api/v1/notify"
+        self.api_server = "https://api.egeoffrey.com/api/v1/notify"
         # configuration settings
         self.house = {}
         # require configuration before starting up
