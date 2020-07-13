@@ -39,7 +39,7 @@ If you are a user willing to contribute to somebody's else package, submit your 
 
 Building is required only if you are the author of the package. To build a Docker image and automatically push it to [Docker Hub](https://hub.docker.com/r/egeoffrey/egeoffrey-notification-mobile), run the following command from within this package's directory:
 ```
-egeoffrey-cli build egeoffrey-notification-mobile <amd64|arm>
+egeoffrey-cli build egeoffrey-notification-mobile
 ```
 
 ## Uninstall
@@ -58,4 +58,4 @@ notification mobile ios android
 
 ## Version
 
-The version of this egeoffrey-notification-mobile is 1.0-1 on the master branch.
+The version of this egeoffrey-notification-mobile is 1.0-2 on the master branch.
