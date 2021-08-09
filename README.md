@@ -58,4 +58,4 @@ notification mobile ios android
 
 ## Version
 
-The version of this egeoffrey-notification-mobile is 1.0-3 on the master branch.
+The version of this egeoffrey-notification-mobile is 1.1-1 on the master branch.
